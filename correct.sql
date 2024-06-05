@@ -1,4 +1,5 @@
 SELECT
+     DISTINCT
     c1.cid AS cid1,
     c2.cid AS cid2
 FROM
